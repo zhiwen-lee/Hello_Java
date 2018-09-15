@@ -1,4 +1,4 @@
-package day01;
+package journal180917;
 
 public class for循环 {
 
