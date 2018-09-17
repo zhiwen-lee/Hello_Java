@@ -1,11 +1,10 @@
 今天学习了：
-1. my name is  
-2. Git 命令
-    1. git add -A   //把今天更新的所有文件，添加到本地仓库）
-    2. git commit -m '（一句话总结本次更新的内容）'  //
-    3. git push origin master       //把本次更新的内容上传到远程仓库的master分支（github.com）
-
-
-英语：  
-ERROR 错误  
-error: switch `m' requires a value 错误：转换'm'需要一个值
+基础知识 比如软件开发 软件：是一系列按照特定顺序组织的计算机数据和指令的集合
+ 常见的软件比如说 QQ 那一系列
+  系统的软件比如嘞  windo linux 还有 DOS  今天学的就是简单的dos 命令行 
+  开发就是 制作软件 
+  人机交互的方式分为 图形化界面和命令行方式 两种  
+   DOS的简单命令行 金田重点学习了CD的 一系列 比如 win+r 搜索 cmd 然后 dir 
+   列出目录文件  md 创建目录 rd 删除目录 cd 进入指定目录 cd..退回上一层
+   cd/ 直接返回目录 del 删除 
+    计算机语言就是 我们输入计算机能够识别的内容 
